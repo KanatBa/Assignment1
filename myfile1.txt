@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Local repository edition
 
+=======
+Online gitHub Edition
+>>>>>>> 241c05df14f55eb5f706bd4cf2af70a87cd0fcfb
