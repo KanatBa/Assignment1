@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-Local repository edition
+Llocal repository edition
+Second line
 
 =======
 Online gitHub Edition
